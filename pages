@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <div>
+      <h1>Lavandería Prototipo</h1>
+      <p>Funciona correctamente 🎉</p>
+    </div>
+  );
+}
